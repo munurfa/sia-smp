@@ -1,0 +1,14 @@
+#file "_form_nilai.php"
+
+1.buka folder sia2 di C:/xampp/htdocs/
+2.buka folder application
+3.buka folder views
+4.buka folder data_siswa
+5.drag/ekstrak/copy/replace disitu
+
+
+#file dataSiswa.php"
+1.buka folder sia2 di C:/xampp/htdocs/
+2.buka folder application
+3.buka folder controllers
+4.drag/ekstrak/copy/replace disitu
